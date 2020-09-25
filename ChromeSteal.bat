@@ -42,7 +42,7 @@ goto main
 set KIKI=G: 
 goto main 
 :main 
-F: 
+%kiki% 
 mkdir init 
 cd init 
 mkdir IndexedDB 
